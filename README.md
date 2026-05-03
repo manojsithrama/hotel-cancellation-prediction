@@ -21,8 +21,8 @@ This project builds a **binary classification model** using **Logistic Regressio
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repo-link>
-cd <repo-folder>
+git clone https://github.com/manojsithrama/hotel-cancellation-prediction
+cd hotel-cancellation-prediction
 ```
 
 ### Step 2: Install Required Libraries
